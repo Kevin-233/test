@@ -1,0 +1,20 @@
+﻿  game.c
+  test.c
+D:\2021Code\test_7_28\test_7_28\test.c(15,16): error C2065: “ROWS”: 未声明的标识符
+D:\2021Code\test_7_28\test_7_28\test.c(15,16): error C2057: 应输入常量表达式
+D:\2021Code\test_7_28\test_7_28\test.c(15,16): error C2466: 不能分配常量大小为 0 的数组
+D:\2021Code\test_7_28\test_7_28\test.c(15,22): error C2065: “COLS”: 未声明的标识符
+D:\2021Code\test_7_28\test_7_28\test.c(15,22): error C2057: 应输入常量表达式
+D:\2021Code\test_7_28\test_7_28\test.c(15,22): error C2466: 不能分配常量大小为 0 的数组
+D:\2021Code\test_7_28\test_7_28\test.c(15,22): error C2087: “mine”: 缺少下标
+D:\2021Code\test_7_28\test_7_28\test.c(16,16): error C2065: “ROWS”: 未声明的标识符
+D:\2021Code\test_7_28\test_7_28\test.c(16,16): error C2057: 应输入常量表达式
+D:\2021Code\test_7_28\test_7_28\test.c(16,16): error C2466: 不能分配常量大小为 0 的数组
+D:\2021Code\test_7_28\test_7_28\test.c(16,22): error C2065: “COLS”: 未声明的标识符
+D:\2021Code\test_7_28\test_7_28\test.c(16,22): error C2057: 应输入常量表达式
+D:\2021Code\test_7_28\test_7_28\test.c(16,22): error C2466: 不能分配常量大小为 0 的数组
+D:\2021Code\test_7_28\test_7_28\test.c(16,22): error C2087: “show”: 缺少下标
+D:\2021Code\test_7_28\test_7_28\test.c(18,11): warning C4013: “InitBoard”未定义；假设外部返回 int
+D:\2021Code\test_7_28\test_7_28\test.c(36,2): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+D:\2021Code\test_7_28\test_7_28\test.c(38,2): error C2059: 语法错误:“return”
+  正在生成代码...
